@@ -50,7 +50,7 @@ Each crosswalk folder contains:
 ### Documentation
 
 - `construction_details.pdf` — detailed methodology appendix
-- `full_paper.pdf` — the paper in which these crosswalks are used
+- `full_paper.pdf` — the paper in which these crosswalks are used (conditionally accepted, *Journal of Public Economics*)
 
 ## File format
 
@@ -100,8 +100,9 @@ See `construction_details.pdf` for the full methodology.
 
 If you use these crosswalks in your research, please cite the paper:
 
-> Song, Meng. 2026. "The Future of Work: Remote Opportunities and Female
-> Labor Force Participation." Working paper.
+> Song, Meng. "The Future of Work: Remote Opportunities and Female
+> Labor Force Participation." *Journal of Public Economics*, conditionally
+> accepted.
 
 ## References
 
